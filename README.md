@@ -39,8 +39,7 @@ test('check if word exists in text', async ({ page }) => {
     // 4. Verify that the target word exists in the content
     expect(content).toContain(targetWord);
 });
-
-
+```
 
 ## 🔧 Project Setup
 
